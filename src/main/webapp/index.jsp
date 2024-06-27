@@ -57,7 +57,7 @@
             <input type="number" id="age" name="age" required>
         </div>
         <div class="form-group">
-            <label for="email">Email:</label>
+            <label for="email">Ranjiht:</label>
             <input type="email" id="email" name="email" required>
         </div>
         <div class="form-group">
